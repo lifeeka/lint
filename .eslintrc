@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "plugin:flowtype/recommended",
+    "airbnb",
+    "prettier"
+  ],
+  "plugins": [
+    "prettier",
+    "flowtype"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "warn"
+    ],
+     "class-methods-use-this": "off",
+     "no-underscore-dangle": "off",
+     "flowtype/no-types-missing-file-annotation": "off"
+  }
+}

@@ -1,2 +1,2 @@
-# lint
-Lintings
+# Lifeeka Lint
+Contain all the lifeeka Linting files
